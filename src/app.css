@@ -1,0 +1,109 @@
+
+.todo-finished {
+	text-decoration: line-through;
+	color: lightgrey;
+	font-size: 3rem;
+}
+
+.todo-red {
+	background-color: red;
+}
+
+.card {
+	margin-top: 2rem;
+	border: 0px;
+}
+
+ul {
+	margin-top: .5rem;
+}
+
+ul li {
+	margin-top: .25rem;
+	/*border: 2px solid tomato;*/
+	box-shadow: 0px 7px 15px #cccccc;
+}
+
+li:hover {
+	margin: .25rem;
+
+}
+
+/*Input Box*/
+.input-group .form-control {
+	border-radius: 0px;
+	border: 0px;
+	background-color: aliceblue;
+    color: black;
+    font-size: 3rem;
+}
+
+.card-block {
+	/*border-right: 2px solid #fff;
+	border-bottom: 2px solid #fff;*/
+	border-style: transparent;
+	/*box-shadow: white 10px 20px 35px, #cccccc 25px 12px 60px;*/
+	box-shadow: 0px 7px 15px #cccccc;
+
+}
+
+.card-block button {
+	border-radius: 0px;
+}
+
+.list-group-flush .list-group-item {
+	border: 1px solid #cccccc;
+	border-radius: 5px;
+	background-color: teal;
+    color: white;
+    font-size: 3rem;
+	font-family: 'Poppins', sans-serif;
+	}
+
+
+
+/*Edit and remove buttons*/
+.btn-sm {
+	border-radius: 5px;
+}
+
+.form-check-label {
+	ladding-left: 2rem;
+}
+
+.form-check-label input {
+	display: none;
+}
+
+/*#checkmark {
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: block;
+  font-size: 1.1rem;
+}*/
+
+.btn-danger {
+	background-color: orange;
+	font-size: 3rem;
+}
+
+.btn-primary {
+	background-color: lightblue;
+	margin-right: .25rem;
+	font-size: 3rem;
+}
+
+ .form-control {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
